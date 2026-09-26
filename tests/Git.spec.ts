@@ -19,6 +19,12 @@
 
 10. git checkout -b mohanbranch => will create a new branch and point to it
 
+11. commit code - git remote add origin https://github.com/aabidshaikh2013-png/SauceDemoFramework.git
+
+12. commit code - git push -u origin main  => '-u' is upstream, '-d' is downstream
+
+13. This is test commit from september branch
+
 
 
 
